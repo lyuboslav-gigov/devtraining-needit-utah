@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">45c8591883572210d727bf10feaad301</canvas>
+        <component display_value="Line">18ac962264404bcc0039359d184b15f3</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showClosestSeriesOnHover":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"line","newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":true,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"label":"NeedIt: Active Weekly","sourceType":"indicator","uuid":{"indicator":"3591a81083532210d727bf10feaad34e","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yMzU5MWE4MTA4MzUzMjIxMGQ3MjdiZjEwZmVhYWQzNGUxNzU0NTY1NDIwNDM3","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"Active Weekly Requests for the past six months","headingLevel":2,"showBorder":true,"bareBorder":false,"dataCategory":"group","telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"aW5kaWNhdG9yMzU5MWE4MTA4MzUzMjIxMGQ3MjdiZjEwZmVhYWQzNGUxNzU0NTY1NDIwNDM3","id":"YVc1a2FXTmhkRzl5TXpVNU1XRTRNVEE0TXpVek1qSXhNR1EzTWpkaVpqRXdabVZoWVdRek5HVXhOelUwTlRZMU5ESXdORE0zMTc1NDU2NTQyMjc5MA==","aggregateIndicator":"","frequency":20,"numberFormat":{"customFormat":false},"axisId":"primary"}],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5TXpVNU1XRTRNVEE0TXpVek1qSXhNR1EzTWpkaVpqRXdabVZoWVdRek5HVXhOelUwTlRZMU5ESXdORE0zMTc1NDU2NTQyMjc5MA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":true,"forecastConfig":{"YVc1a2FXTmhkRzl5TXpVNU1XRTRNVEE0TXpVek1qSXhNR1EzTWpkaVpqRXdabVZoWVdRek5HVXhOelUwTlRZMU5ESXdORE0zMTc1NDU2NTQyMjc5MA==":{"periodsToForecast":"2","forecastMethod":{"label":"Auto","value":"AUTO","id":"1"},"forecastBasedOn":{"label":"All Scores","value":"ALL_SCORES","id":"1"},"lowerLimit":"100","upperLimit":"500"}},"showForecastRange":true,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"5bk4botc","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":6,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"id":"showThreshold","value":false,"noDebounce":true,"propLabel":"Show threshold"}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-07 11:20:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0dc8591883572210d727bf10feaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_0dc8591883572210d727bf10feaad30e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-07 11:20:21</sys_updated_on>
+        <visualization/>
+        <w>24</w>
+        <widget_props/>
+        <x>24</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
